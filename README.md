@@ -166,15 +166,7 @@ iris-flower-classification/
 ├── iris_analysis_dashboard.png        # Visualization output
 ├── data/
 │   └── iris.csv                       # Dataset
-├── src/
-│   ├── __init__.py
-│   ├── preprocessing.py               # Data preprocessing
-│   ├── models.py                      # Model definitions
-│   ├── evaluation.py                  # Evaluation metrics
-│   └── visualization.py               # Chart generation
-└── results/
-    ├── model_comparison.pkl           # Saved models
-    └── metrics.json                   # Performance metrics
+
 ```
 
 ---
