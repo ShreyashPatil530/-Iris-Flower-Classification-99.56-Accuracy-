@@ -431,7 +431,6 @@ in all copies or substantial portions of the Software.
 - **📊 Kaggle:** [Shreyash Patil](https://www.kaggle.com/shreyashpatil217)
 - **🌐 Portfolio:** [Shreyash Patil Portfolio](https://shreyash-patil-portfolio1.netlify.app/)
 - **💼 LinkedIn:** [Connect with me](https://linkedin.com/in/shreyash-patil)
-- **🐦 Twitter:** [@ShreyashPatil](https://twitter.com/ShreyashPatil)
 
 ---
 
