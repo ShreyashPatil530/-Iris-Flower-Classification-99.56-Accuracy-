@@ -23,7 +23,8 @@ A **professional-grade machine learning project** implementing a complete data s
 **Achieved Accuracy: 99.56%** 🏆 (Logistic Regression)
 
 ---
-![Uploading Gemini_Generated_Image_wjvgolwjvgolwjvg.png…]()
+![Uploading Gemini_Generated_Image_wjvgolwjvgolwjvg.png…](![Uploading Gemini_Generated_Image_wjvgolwjvgolwjvg.png…]()
+)
 
 
 ## 🎯 Quick Links
