@@ -23,7 +23,7 @@ A **professional-grade machine learning project** implementing a complete data s
 **Achieved Accuracy: 99.56%** 🏆 (Logistic Regression)
 
 ---
-![Housing EDA Visualization](Gemini_Generated_Image.png)
+![Housing EDA Visualization](Gemini_Generated_Image_wjvgolwjvgolwjvg.png)
 ## 🎯 Quick Links
 
 | Link | Description |
